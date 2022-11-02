@@ -2,4 +2,6 @@
 
 1. <https://www.youtube.com/watch?v=uk65vMJ6f7g>
 
-2. ![캡쳐](screenshot.gif)
+2. <https://hyundai-sangho.github.io/pokeApi/>
+
+3. ![캡쳐](screenshot.gif)
